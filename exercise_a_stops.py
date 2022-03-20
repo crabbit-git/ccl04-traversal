@@ -1,5 +1,7 @@
 stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Haymarket" ]
 
+# I've commented out everything apart from the last task, but just uncomment the bits you want to run/check.
+
 # #1. Add "Edinburgh Waverley" to the end of the list
 # stops.append("Edinburgh Waverley")
 # print(stops)
